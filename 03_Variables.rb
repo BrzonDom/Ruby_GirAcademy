@@ -12,3 +12,12 @@ puts ("There once was a man named " + name)
 puts ("he was " + age + " years old.")
 puts ("He really liked the name " + name)
 puts ("but didn't like being " + age + ".")
+puts
+
+name = "Mike"
+age = "50"
+
+puts ("There once was a man named " + name)
+puts ("he was " + age + " years old.")
+puts ("He really liked the name " + name)
+puts ("but didn't like being " + age + ".")
