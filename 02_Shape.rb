@@ -8,8 +8,8 @@ puts "Object 2"
 puts "Objcet 3"
 puts
 
-puts "    /|"
-puts "   / |"
-puts "  /  |"
-puts " /   |"
-puts "/____|"
+puts "\t    /|"
+puts "\t   / |"
+puts "\t  /  |"
+puts "\t /   |"
+puts "\t/____|"
